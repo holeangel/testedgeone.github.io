@@ -6,9 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TCMcontrast</title>
   <style>
-     /* 样式设置，将不在列表中的药名用红色显示 */
+    /* 样式设置，将不在列表中的药名用红色显示 */
     .not-in-list {
       color: red;
+    }
+    /* 用量超标显示橙色 */
+    .dosage-warning {
+      color: orange;
+      font-weight: bold;
+    }
+    /* 用量正常显示绿色 */
+    .dosage-ok {
+      color: green;
     }
     /* 设置输入框的宽度和高度 */
     #medicineInput {
@@ -17,32 +26,180 @@
     }
     /* 设置显示结果的div的宽度和高度 */
     #result {
-      width: 600px;
-      height: 300px;
+      width: 800px;
+      height: 400px;
       overflow-y: auto;
+    }
+    .medicine-item {
+      margin: 5px 0;
+      padding: 5px;
+      border-bottom: 1px solid #eee;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 10px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
     }
   </style>
 </head>
 
 <body>
-  <h2>TCMContrast</h2>
+  <h2>TCMContrast - 校验系统</h2>
   
-  <!-- 将input标签替换为textarea标签 -->
-  <textarea id="medicineInput" placeholder="请输入，多个以逗号分隔"></textarea>
-  <button onclick="compareMedicines()">submit</button>
+  <div>
+    <h3>模式选择：</h3>
+    <label><input type="radio" name="mode" value="simple" checked> 简单模式</label>
+    <label><input type="radio" name="mode" value="dosage"> 校验模式</label>
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <h3>输入数据：</h3>
+    <p id="inputHint">请输入数据，多个以逗号分隔</p>
+    <textarea id="medicineInput" placeholder="请输入数据，多个以逗号分隔"></textarea>
+    <br>
+    <button onclick="processData()">开始校验</button>
+  </div>
+  
   <div id="result"></div>
 
+  <!-- 引入药典数据 -->
+  <script src="medicine_data.js"></script>
+  
   <script>
-    // 假设这是300味中药的数组，这里只列举少量示例
+    // 中药列表
     const chineseMedicines = [
       "麻黄","蜜麻黄","桂枝","防风","荆芥穗","羌活","白芷","细辛","紫苏叶","紫苏梗","辛夷","炒苍耳子","菊花","桑叶","蝉蜕","葛根","升麻","北柴胡","蔓荆子","淡豆豉","盐知母","石膏","焦栀子","淡竹叶","蜜蒙花","天花粉","黄芩片","黄连片","关黄柏","白鲜皮","金银花","连翘","蒲公英","紫花地丁","射干","干鱼腥草","金荞麦","野菊花","忍冬藤","土茯苓","大青叶","败酱草","白花蛇舌草","大血藤(红藤)","荷叶","鬼针草","翻白草","生地黄","玄参","牡丹皮","水牛角丝","赤芍","独活","威灵仙","木瓜","伸筋草","透骨草","路路通","刺五加","防己","秦艽","桑寄生","桑枝","烫狗脊","虎杖","络石藤","乌梢蛇","五加皮","茯神","猪苓","泽泻","盐泽泻","薏苡仁","麸炒薏苡仁","车前草","滑石","滑石粉","海金沙","茵陈","地肤子","冬瓜皮","广金钱草","小通草","大通草","萹蓄","瞿麦","川木通","鱼脑石","大黄","火麻仁","芒硝","麸炒苍术","厚朴","广藿香","砂仁","肉桂","干姜","吴茱萸","盐小茴香","陈皮","麸炒枳壳","麸炒枳实","木香","醋香附","乌药","檀香","大腹皮","炒川楝子","醋延胡索(醋元胡)","预知子","香橼","玫瑰花","生山楂","净山楂","焦山楂","麦芽","炒麦芽","炒神曲","炒六神曲","鸡内金","炒鸡内金","炒槟榔片","鸡矢藤","柿蒂","白茅根","生蒲黄","仙鹤草","茜草","白芨","槐米","侧柏叶","艾叶","地榆炭","蒲黄炭","荆芥穗炭","川芎","郁金","怀牛膝","川牛膝","红花","炒山桃仁","丹参","五灵脂","干益母草","泽兰","卷柏","炒王不留行","鸡血藤","姜黄","醋乳香","醋没药","茺蔚子","水红花子","清半夏","姜半夏","法半夏","桔梗","炒苦杏仁","旋覆花","瓜蒌","竹茹","紫苏子","胆南星","银杏叶","石菖蒲","磁石","煅磁石","炒酸枣仁","蜜远志","合欢皮","首乌藤","紫贝齿","煅石决明","生牡蛎","煅牡蛎","煅赭石","天麻","炒蒺藜","地龙","炒僵蚕","珍珠母","人参片","党参","黄芪","炙黄芪","白术","麸炒白术","山药","麸炒山药","甘草片","炙甘草","太子参","灵芝片","大枣","白扁豆","当归","熟地黄","龙眼肉","白芍","炒白芍","酒白芍","南沙参","北沙参","麦冬","酒黄精","干石斛","桑椹子","枸杞子","女贞子","墨旱莲","醋龟甲","醋鳖甲","黑芝麻","楮实子","巴戟天","肉苁蓉","锁阳","炙淫羊藿","杜仲","盐杜仲","补骨脂","盐补骨脂","盐菟丝子","续断","烫骨碎补","益智仁","五倍子","五味子","山萸肉","麻黄根","浮小麦","海螵蛸","连子","赤石脂","分心木","芡实","蛇床子",
     ];
 
+    // 药典用量数据已从 medicine_data.js 加载（共596种药物）
+
+    // 药名映射表（炮制品 -> 标准名）
+    const medicineNameMapping = {
+      "麸炒白术": "白术",
+      "炒白术": "白术",
+      "麸炒山药": "山药",
+      "炒山药": "山药",
+      "炒酸枣仁": "酸枣仁",
+      "山萸肉": "山茱萸",
+      "蜜桑白皮": "桑白皮",
+      "黑顺片": "附子",
+      "制附子": "附子",
+      "黑顺片(制附子)": "附子",
+      "炒山桃仁": "桃仁",
+      "山桃仁": "桃仁",
+      "益智仁": "益智",
+      "甘草片": "甘草",
+      "炙甘草": "甘草",
+      "盐杜仲": "杜仲",
+      "醋香附": "香附",
+      "醋延胡索": "延胡索",
+      "醋元胡": "延胡索",
+      "醋延胡索(醋元胡)": "延胡索",
+      "麸炒枳壳": "枳壳",
+      "麸炒枳实": "枳实",
+      "麸炒苍术": "苍术",
+      "炒苍术": "苍术",
+      "盐小茴香": "小茴香",
+      "炒川楝子": "川楝子",
+      "制川乌": "制川乌",
+      "蜜麻黄": "麻黄",
+      "炮姜": "炮姜",
+      "炒苍耳子": "苍耳子",
+      "北柴胡": "柴胡",
+      "盐知母": "知母",
+      "黄芩片": "黄芩",
+      "黄连片": "黄连",
+      "干鱼腥草": "鱼腥草",
+      "大血藤(红藤)": "大血藤",
+      "生地黄": "地黄",
+      "水牛角丝": "水牛角",
+      "烫狗脊": "狗脊",
+      "盐泽泻": "泽泻",
+      "麸炒薏苡仁": "薏苡仁",
+      "大通草": "通草",
+      "生山楂": "山楂",
+      "净山楂": "山楂",
+      "焦山楂": "山楂",
+      "炒麦芽": "麦芽",
+      "炒鸡内金": "鸡内金",
+      "炒槟榔片": "槟榔",
+      "生蒲黄": "蒲黄",
+      "地榆炭": "地榆",
+      "蒲黄炭": "蒲黄",
+      "怀牛膝": "牛膝",
+      "干益母草": "益母草",
+      "炒王不留行": "王不留行",
+      "醋乳香": "乳香",
+      "醋没药": "没药",
+      "炒苦杏仁": "苦杏仁",
+      "煅磁石": "磁石",
+      "蜜远志": "远志",
+      "煅石决明": "石决明",
+      "生牡蛎": "牡蛎",
+      "煅牡蛎": "牡蛎",
+      "煅赭石": "赭石",
+      "炒蒺藜": "蒺藜",
+      "炒僵蚕": "僵蚕",
+      "人参片": "人参",
+      "灵芝片": "灵芝",
+      "炒白芍": "白芍",
+      "酒白芍": "白芍",
+      "酒黄精": "黄精",
+      "干石斛": "石斛",
+      "桑椹子": "桑椹",
+      "醋龟甲": "龟甲",
+      "醋鳖甲": "鳖甲",
+      "炙淫羊藿": "淫羊藿",
+      "盐补骨脂": "补骨脂",
+      "盐菟丝子": "菟丝子",
+      "烫骨碎补": "骨碎补",
+      "炒神曲": "神曲",
+      "炒六神曲": "神曲"
+    };
+
+    // 获取标准药名
+    function getStandardName(name) {
+      return medicineNameMapping[name] || name;
+    }
+
+    // 监听模式切换
+    document.querySelectorAll('input[name="mode"]').forEach(radio => {
+      radio.addEventListener('change', function() {
+        const hint = document.getElementById('inputHint');
+        const textarea = document.getElementById('medicineInput');
+        if (this.value === 'simple') {
+          hint.textContent = '请输入数据，多个以逗号分隔';
+          textarea.placeholder = '例如：党参, 茯苓, 白术, 甘草';
+        } else {
+          hint.textContent = '请复制3列数据（数据、用量、单位），粘贴到下方';
+          textarea.placeholder = '党参\t20\t\n茯苓\t10\t';
+        }
+      });
+    });
+
+    function processData() {
+      const mode = document.querySelector('input[name="mode"]:checked').value;
+      if (mode === 'simple') {
+        compareMedicines();
+      } else {
+        checkDosage();
+      }
+    }
+
+    // 简单模式：药名识别
     function compareMedicines() {
       const input = document.getElementById('medicineInput').value;
-      const medicines = input.split(',').map(med => med.trim());
+      const medicines = input.split(',').map(med => med.trim()).filter(m => m);
       const resultDiv = document.getElementById('result');
-      resultDiv.innerHTML = '';
+      resultDiv.innerHTML = '<h3>识别结果：</h3>';
 
       medicines.forEach(medicine => {
         const isInList = chineseMedicines.includes(medicine);
@@ -53,6 +210,86 @@
         }
         resultDiv.appendChild(span);
       });
+    }
+
+    // 用量校验模式
+    function checkDosage() {
+      const input = document.getElementById('medicineInput').value;
+      const lines = input.split('\n').filter(line => line.trim());
+      const resultDiv = document.getElementById('result');
+      
+      let html = '<h3>用量校验结果：</h3>';
+      html += '<table><tr><th>药名</th><th>实际用量(g)</th><th>药典标准(g)</th><th>状态</th><th>说明</th></tr>';
+      
+      let warningCount = 0;
+      let okCount = 0;
+      let unknownCount = 0;
+
+      lines.forEach(line => {
+        // 解析Excel粘贴的数据（制表符分隔）
+        const parts = line.split(/[\t\s]+/).filter(p => p.trim());
+        if (parts.length < 2) return;
+        
+        const medicineName = parts[0].trim();
+        const actualDosage = parseFloat(parts[1]);
+        
+        if (isNaN(actualDosage)) return;
+
+        // 获取标准药名并查找药典数据
+        const standardName = getStandardName(medicineName);
+        const standardData = medicineDosageData[standardName];
+        
+        let status = '';
+        let statusClass = '';
+        let explanation = '';
+        let displayName = medicineName;
+        if (standardName !== medicineName) {
+          displayName = `${medicineName} (${standardName})`;
+        }
+
+        if (!standardData) {
+          status = '⚠️ 未找到药典数据';
+          statusClass = 'not-in-list';
+          explanation = '请手动核对';
+          unknownCount++;
+        } else {
+          const {min, max, text} = standardData;
+          if (actualDosage < min) {
+            status = '⚠️ 低于最小用量';
+            statusClass = 'dosage-warning';
+            explanation = `实际${actualDosage}g低于药典最小用量${min}g`;
+            warningCount++;
+          } else if (actualDosage > max) {
+            status = '❌ 超出最大用量';
+            statusClass = 'dosage-warning';
+            explanation = `实际${actualDosage}g超出药典最大用量${max}g`;
+            warningCount++;
+          } else {
+            status = '✅ 符合标准';
+            statusClass = 'dosage-ok';
+            explanation = `在药典范围${min}～${max}g内`;
+            okCount++;
+          }
+        }
+
+        html += `<tr>
+          <td>${displayName}</td>
+          <td>${actualDosage}</td>
+          <td>${standardData ? standardData.min + '～' + standardData.max : '-'}</td>
+          <td class="${statusClass}">${status}</td>
+          <td>${explanation}</td>
+        </tr>`;
+      });
+
+      html += '</table>';
+      html += `<div style="margin-top: 20px; padding: 10px; background: #f5f5f5;">
+        <strong>统计：</strong> 
+        符合标准: <span class="dosage-ok">${okCount}</span> | 
+        超出范围: <span class="dosage-warning">${warningCount}</span> | 
+        未找到数据: <span class="not-in-list">${unknownCount}</span>
+      </div>`;
+
+      resultDiv.innerHTML = html;
     }
   </script>
 </body>

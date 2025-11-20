@@ -1,0 +1,4300 @@
+[
+  {
+    "entry_id": 2,
+    "title": "丁公藤",
+    "pinyin": "Dinggongteng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，用于配制酒剂，内服或外搽。"
+  },
+  {
+    "entry_id": 3,
+    "title": "丁香",
+    "pinyin": "Dingxiɑng",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，内服或研末外敷。"
+  },
+  {
+    "entry_id": 4,
+    "title": "八角茴香",
+    "pinyin": "Bɑjiɑohuixiɑng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 5,
+    "title": "人工牛黄",
+    "pinyin": "Rengong Niuhuɑng",
+    "dosage": "0.15～0.35g",
+    "dosage_text": "一次0.15～0.35g，多作配方用。外用适量敷患处。"
+  },
+  {
+    "entry_id": 6,
+    "title": "人参",
+    "pinyin": "Renshen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，另煎兑服；也可研粉吞服，一次2g，一日2次。"
+  },
+  {
+    "entry_id": 7,
+    "title": "人参叶",
+    "pinyin": "Renshenye",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 8,
+    "title": "儿茶",
+    "pinyin": "Erchɑ",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，包煎；多入丸散服。外用适量。"
+  },
+  {
+    "entry_id": 9,
+    "title": "九里香",
+    "pinyin": "Jiulixiɑng",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 10,
+    "title": "九香虫",
+    "pinyin": "Jiuxiɑngchong",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 11,
+    "title": "刀豆",
+    "pinyin": "Dɑodou",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 12,
+    "title": "三七",
+    "pinyin": "Sɑnqi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g；研粉吞服，一次1～3g。外用适量。"
+  },
+  {
+    "entry_id": 13,
+    "title": "三白草",
+    "pinyin": "Sɑnbɑicɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 14,
+    "title": "三棱",
+    "pinyin": "Sɑnleng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 15,
+    "title": "三颗针",
+    "pinyin": "Sɑnkezhen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 16,
+    "title": "干姜",
+    "pinyin": "Gɑnjiɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 17,
+    "title": "炮姜",
+    "pinyin": "Pɑojiɑng",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 18,
+    "title": "干漆",
+    "pinyin": "Gɑnqi",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。"
+  },
+  {
+    "entry_id": 19,
+    "title": "土木香",
+    "pinyin": "Tumuxiɑng",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，多入丸散服。"
+  },
+  {
+    "entry_id": 20,
+    "title": "土贝母",
+    "pinyin": "Tubeimu",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 21,
+    "title": "土荆皮",
+    "pinyin": "Tujingpi",
+    "dosage": "外用药，无用量",
+    "dosage_text": "外用适量，醋或酒浸涂擦，或研末调涂患处。"
+  },
+  {
+    "entry_id": 22,
+    "title": "土茯苓",
+    "pinyin": "Tufuling",
+    "dosage": "15～60g",
+    "dosage_text": "15～60g。"
+  },
+  {
+    "entry_id": 23,
+    "title": "土鳖虫（䗪虫）",
+    "pinyin": "Tubiechong",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 24,
+    "title": "大叶紫珠",
+    "pinyin": "Dɑyezizhu",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，研末敷于患处。"
+  },
+  {
+    "entry_id": 25,
+    "title": "大血藤",
+    "pinyin": "Dɑxueteng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 26,
+    "title": "大豆黄卷",
+    "pinyin": "Dɑdouhuɑngjuɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 27,
+    "title": "大皂角",
+    "pinyin": "Dɑzɑojiɑo",
+    "dosage": "1～1.5g",
+    "dosage_text": "1～1.5g，多入丸散用。外用适量，研末吹鼻取嚏或研末调敷患处。"
+  },
+  {
+    "entry_id": 28,
+    "title": "大青叶",
+    "pinyin": "Dɑqingye",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 29,
+    "title": "大青盐",
+    "pinyin": "Dɑqingyɑn",
+    "dosage": "1.2～2.5g",
+    "dosage_text": "1.2～2.5g；或入丸散用。外用适量，研末擦牙或水化漱口、洗目。"
+  },
+  {
+    "entry_id": 30,
+    "title": "大枣",
+    "pinyin": "Dɑzɑo",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 31,
+    "title": "大黄",
+    "pinyin": "Dɑhuɑng",
+    "dosage": "3～15g",
+    "dosage_text": "3～15g；用于泻下不宜久煎。外用适量，研末敷于患处。"
+  },
+  {
+    "entry_id": 32,
+    "title": "大蒜",
+    "pinyin": "Dɑsuɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 33,
+    "title": "大蓟",
+    "pinyin": "Dɑji",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 34,
+    "title": "大蓟炭",
+    "pinyin": "Dɑjitɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g，多入丸散服。"
+  },
+  {
+    "entry_id": 35,
+    "title": "大腹皮",
+    "pinyin": "Dɑfupi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 36,
+    "title": "山麦冬",
+    "pinyin": "Shɑnmɑidong",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 37,
+    "title": "山豆根",
+    "pinyin": "Shɑndougen",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 38,
+    "title": "山茱萸",
+    "pinyin": "Shɑnzhuyu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 39,
+    "title": "山药",
+    "pinyin": "Shɑnyɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 40,
+    "title": "山柰",
+    "pinyin": "Shɑnnɑi",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 41,
+    "title": "山香圆叶",
+    "pinyin": "Shɑnxiɑngyuɑnye",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量。"
+  },
+  {
+    "entry_id": 42,
+    "title": "山银花",
+    "pinyin": "Shɑnyinhuɑ",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 43,
+    "title": "山楂",
+    "pinyin": "Shɑnzhɑ",
+    "dosage": "9～12g",
+    "dosage_text": "9～12g。"
+  },
+  {
+    "entry_id": 44,
+    "title": "山楂叶",
+    "pinyin": "Shɑnzhɑye",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g；或泡茶饮。"
+  },
+  {
+    "entry_id": 45,
+    "title": "山慈菇",
+    "pinyin": "Shɑncigu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量。"
+  },
+  {
+    "entry_id": 46,
+    "title": "千年健",
+    "pinyin": "Qiɑnniɑnjiɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 47,
+    "title": "千里光",
+    "pinyin": "Qiɑnliguɑng",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，煎水熏洗。"
+  },
+  {
+    "entry_id": 48,
+    "title": "千金子",
+    "pinyin": "Qiɑnjinzi",
+    "dosage": "1～2g",
+    "dosage_text": "1～2g，去壳，去油用，多入丸散服。外用适量，捣烂敷患处。"
+  },
+  {
+    "entry_id": 49,
+    "title": "千金子霜",
+    "pinyin": "Qiɑnjinzishuɑng",
+    "dosage": "0.5～1g",
+    "dosage_text": "0.5～1g，多入丸散服。外用适量。"
+  },
+  {
+    "entry_id": 50,
+    "title": "川木香",
+    "pinyin": "Chuɑnmuxiɑng",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 51,
+    "title": "川木通",
+    "pinyin": "Chuɑnmutong",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 52,
+    "title": "川贝母",
+    "pinyin": "Chuɑnbeimu",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g；研粉冲服，一次1～2g。"
+  },
+  {
+    "entry_id": 53,
+    "title": "川牛膝",
+    "pinyin": "Chuɑnniuxi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 54,
+    "title": "川乌",
+    "pinyin": "Chuɑnwu",
+    "dosage": null,
+    "dosage_text": "一般炮制后用"
+  },
+  {
+    "entry_id": 55,
+    "title": "制川乌",
+    "pinyin": "Zhichuɑnwu",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g，先煎、久煎。"
+  },
+  {
+    "entry_id": 56,
+    "title": "川芎",
+    "pinyin": "Chuɑnxiong",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 57,
+    "title": "川射干",
+    "pinyin": "Chuɑnshegɑn",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 58,
+    "title": "川楝子",
+    "pinyin": "Chuɑnliɑnzi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，研末调涂。"
+  },
+  {
+    "entry_id": 59,
+    "title": "广东紫珠",
+    "pinyin": "Guɑngdongzizhu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，研粉敷患处。"
+  },
+  {
+    "entry_id": 60,
+    "title": "广枣",
+    "pinyin": "Guɑngzɑo",
+    "dosage": "1.5～2.5g",
+    "dosage_text": "1.5～2.5g。"
+  },
+  {
+    "entry_id": 61,
+    "title": "广金钱草",
+    "pinyin": "Guɑngjinqiɑncɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 62,
+    "title": "广藿香",
+    "pinyin": "Guɑnghuoxiɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 63,
+    "title": "女贞子",
+    "pinyin": "Nüzhenzi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 64,
+    "title": "小叶莲",
+    "pinyin": "Xiɑoyeliɑn",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，多入丸散服。"
+  },
+  {
+    "entry_id": 65,
+    "title": "小驳骨",
+    "pinyin": "Xiɑobogu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量。"
+  },
+  {
+    "entry_id": 66,
+    "title": "小茴香",
+    "pinyin": "Xiɑohuixiɑng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 67,
+    "title": "小通草",
+    "pinyin": "Xiɑotongcɑo",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 68,
+    "title": "小蓟",
+    "pinyin": "Xiɑoji",
+    "dosage": "5～12g",
+    "dosage_text": "5～12g。"
+  },
+  {
+    "entry_id": 69,
+    "title": "飞扬草",
+    "pinyin": "Feiyɑngcɑo",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。外用适量，煎水洗。"
+  },
+  {
+    "entry_id": 70,
+    "title": "马齿苋",
+    "pinyin": "Mɑchixiɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量捣敷患处。"
+  },
+  {
+    "entry_id": 71,
+    "title": "马勃",
+    "pinyin": "Mɑbo",
+    "dosage": "2～6g",
+    "dosage_text": "2～6g。外用适量，敷患处。"
+  },
+  {
+    "entry_id": 72,
+    "title": "马钱子",
+    "pinyin": "Mɑqiɑnzi",
+    "dosage": "0.3～0.6g",
+    "dosage_text": "0.3～0.6g，炮制后入丸散用。"
+  },
+  {
+    "entry_id": 73,
+    "title": "马钱子粉",
+    "pinyin": "Mɑqiɑnzi Fen",
+    "dosage": "0.3～0.6g",
+    "dosage_text": "0.3～0.6g，入丸散用。"
+  },
+  {
+    "entry_id": 74,
+    "title": "马鞭草",
+    "pinyin": "Mɑbiɑncɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 75,
+    "title": "王不留行",
+    "pinyin": "Wɑngbuliuxing",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 76,
+    "title": "天山雪莲",
+    "pinyin": "Tiɑnshɑnxueliɑn",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，水煎或酒浸服。外用适量。"
+  },
+  {
+    "entry_id": 77,
+    "title": "天仙子",
+    "pinyin": "Tiɑnxiɑnzi",
+    "dosage": "0.06～0.6g",
+    "dosage_text": "0.06～0.6g。"
+  },
+  {
+    "entry_id": 78,
+    "title": "天冬",
+    "pinyin": "Tiɑndong",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 79,
+    "title": "天花粉",
+    "pinyin": "Tiɑnhuɑfen",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 80,
+    "title": "天竺黄",
+    "pinyin": "Tiɑnzhuhuɑng",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 81,
+    "title": "天南星",
+    "pinyin": "Tiɑnnɑnxing",
+    "dosage": null,
+    "dosage_text": "外用生品适量，研末以醋或酒调敷患处。"
+  },
+  {
+    "entry_id": 82,
+    "title": "制天南星",
+    "pinyin": "Zhitiɑnnɑnxing",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 83,
+    "title": "天麻",
+    "pinyin": "Tiɑnmɑ",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 84,
+    "title": "天葵子",
+    "pinyin": "Tiɑnkuizi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 85,
+    "title": "天然冰片（右旋龙脑）",
+    "pinyin": "Tiɑnrɑnbingpiɑn",
+    "dosage": "0.3～0.9g",
+    "dosage_text": "0.3～0.9g，入丸散服。外用适量，研粉点敷患处。"
+  },
+  {
+    "entry_id": 86,
+    "title": "云芝",
+    "pinyin": "Yunzhi",
+    "dosage": "9～27g",
+    "dosage_text": "9～27g。"
+  },
+  {
+    "entry_id": 87,
+    "title": "木瓜",
+    "pinyin": "Muguɑ",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 88,
+    "title": "木芙蓉叶",
+    "pinyin": "Mufurongye",
+    "dosage": "10～30g",
+    "dosage_text": "10～30g。外用适量。"
+  },
+  {
+    "entry_id": 89,
+    "title": "木香",
+    "pinyin": "Muxiɑng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 90,
+    "title": "木贼",
+    "pinyin": "Muzei",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 91,
+    "title": "木通",
+    "pinyin": "Mutong",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 92,
+    "title": "木棉花",
+    "pinyin": "Mumiɑnhuɑ",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 93,
+    "title": "木蝴蝶",
+    "pinyin": "Muhudie",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。"
+  },
+  {
+    "entry_id": 94,
+    "title": "木鳖子",
+    "pinyin": "Mubiezi",
+    "dosage": "0.9～1.2g",
+    "dosage_text": "0.9～1.2g。外用适量，研末，用油或醋调涂患处。"
+  },
+  {
+    "entry_id": 95,
+    "title": "五加皮",
+    "pinyin": "Wujiɑpi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 96,
+    "title": "五味子",
+    "pinyin": "Wuweizi",
+    "dosage": "2～6g",
+    "dosage_text": "2～6g。"
+  },
+  {
+    "entry_id": 97,
+    "title": "五倍子",
+    "pinyin": "Wubeizi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。外用适量。"
+  },
+  {
+    "entry_id": 98,
+    "title": "太子参",
+    "pinyin": "Tɑizishen",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 99,
+    "title": "车前子",
+    "pinyin": "Cheqiɑnzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，包煎。"
+  },
+  {
+    "entry_id": 100,
+    "title": "车前草",
+    "pinyin": "Cheqiɑncɑo",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 101,
+    "title": "瓦松",
+    "pinyin": "Wɑsong",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末涂敷患处。"
+  },
+  {
+    "entry_id": 102,
+    "title": "瓦楞子",
+    "pinyin": "Wɑlengzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，先煎。"
+  },
+  {
+    "entry_id": 103,
+    "title": "牛黄",
+    "pinyin": "Niuhuɑng",
+    "dosage": "0.15～0.35g",
+    "dosage_text": "0.15～0.35g，多入丸散用。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 104,
+    "title": "牛蒡子",
+    "pinyin": "Niubɑngzi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 105,
+    "title": "牛膝",
+    "pinyin": "Niuxi",
+    "dosage": "5～12g",
+    "dosage_text": "5～12g。"
+  },
+  {
+    "entry_id": 106,
+    "title": "毛诃子",
+    "pinyin": "Mɑohezi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，多入丸散服。"
+  },
+  {
+    "entry_id": 107,
+    "title": "升麻",
+    "pinyin": "Shengmɑ",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 108,
+    "title": "片姜黄",
+    "pinyin": "Piɑnjiɑnghuɑng",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 109,
+    "title": "化橘红",
+    "pinyin": "Huɑjuhong",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 110,
+    "title": "月季花",
+    "pinyin": "Yuejihuɑ",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 111,
+    "title": "丹参",
+    "pinyin": "Dɑnshen",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 112,
+    "title": "乌药",
+    "pinyin": "Wuyɑo",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 113,
+    "title": "乌梢蛇",
+    "pinyin": "Wushɑoshe",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 114,
+    "title": "乌梅",
+    "pinyin": "Wumei",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 115,
+    "title": "火麻仁",
+    "pinyin": "Huomɑren",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 116,
+    "title": "巴豆",
+    "pinyin": "Bɑdou",
+    "dosage": null,
+    "dosage_text": "外用适量，研末涂患处，或捣烂以纱布包擦患处。"
+  },
+  {
+    "entry_id": 117,
+    "title": "巴豆霜",
+    "pinyin": "Bɑdoushuɑng",
+    "dosage": "0.1～0.3g",
+    "dosage_text": "0.1～0.3g，多入丸散用。外用适量。"
+  },
+  {
+    "entry_id": 118,
+    "title": "巴戟天",
+    "pinyin": "Bɑjitiɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 119,
+    "title": "水飞蓟",
+    "pinyin": "Shuifeiji",
+    "dosage": null,
+    "dosage_text": "供配制成药用。"
+  },
+  {
+    "entry_id": 120,
+    "title": "水牛角",
+    "pinyin": "Shuiniujiɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g，宜先煎3小时以上。"
+  },
+  {
+    "entry_id": 121,
+    "title": "水红花子",
+    "pinyin": "Shuihonghuɑzi",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，熬膏敷患处。"
+  },
+  {
+    "entry_id": 122,
+    "title": "水蛭",
+    "pinyin": "Shuizhi",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。"
+  },
+  {
+    "entry_id": 123,
+    "title": "玉竹",
+    "pinyin": "Yuzhu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 124,
+    "title": "功劳木",
+    "pinyin": "Gonglɑomu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量。"
+  },
+  {
+    "entry_id": 125,
+    "title": "甘松",
+    "pinyin": "Gɑnsong",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。外用适量，泡汤漱口或煎汤洗脚或研末敷患处。"
+  },
+  {
+    "entry_id": 126,
+    "title": "甘草",
+    "pinyin": "Gɑncɑo",
+    "dosage": "2～10g",
+    "dosage_text": "2～10g。"
+  },
+  {
+    "entry_id": 127,
+    "title": "炙甘草",
+    "pinyin": "Zhigɑncɑo",
+    "dosage": "2～10g",
+    "dosage_text": "2～10g。"
+  },
+  {
+    "entry_id": 128,
+    "title": "甘遂",
+    "pinyin": "Gɑnsui",
+    "dosage": "0.5～1.5g",
+    "dosage_text": "0.5～1.5g，炮制后多入丸散用。外用适量，生用。"
+  },
+  {
+    "entry_id": 129,
+    "title": "艾片（左旋龙脑）",
+    "pinyin": "Aipiɑn",
+    "dosage": "0.15～0.3g",
+    "dosage_text": "0.15～0.3g，入丸散用。外用研粉点敷患处。"
+  },
+  {
+    "entry_id": 130,
+    "title": "艾叶",
+    "pinyin": "Aiye",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，供灸治或熏洗用。"
+  },
+  {
+    "entry_id": 131,
+    "title": "石韦",
+    "pinyin": "Shiwei",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 132,
+    "title": "石吊兰",
+    "pinyin": "Shidiɑolɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，捣敷或煎水外洗。"
+  },
+  {
+    "entry_id": 133,
+    "title": "石决明",
+    "pinyin": "Shijueming",
+    "dosage": "6～20g",
+    "dosage_text": "6～20g，先煎。"
+  },
+  {
+    "entry_id": 134,
+    "title": "石菖蒲",
+    "pinyin": "Shichɑngpu",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 135,
+    "title": "石斛",
+    "pinyin": "Shihu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g；鲜品15～30g。"
+  },
+  {
+    "entry_id": 136,
+    "title": "石榴皮",
+    "pinyin": "Shiliupi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 137,
+    "title": "石膏",
+    "pinyin": "Shigɑo",
+    "dosage": "15～60g",
+    "dosage_text": "15～60g，先煎。"
+  },
+  {
+    "entry_id": 138,
+    "title": "煅石膏",
+    "pinyin": "Duɑnshigɑo",
+    "dosage": null,
+    "dosage_text": "外用适量，研末撒敷患处。"
+  },
+  {
+    "entry_id": 139,
+    "title": "布渣叶",
+    "pinyin": "Buzhɑye",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 140,
+    "title": "龙胆",
+    "pinyin": "Longdɑn",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 141,
+    "title": "龙眼肉",
+    "pinyin": "Longyɑnrou",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 142,
+    "title": "龙脷叶",
+    "pinyin": "Longliye",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 143,
+    "title": "平贝母",
+    "pinyin": "Pingbeimu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g；研粉冲服，一次1～2g。"
+  },
+  {
+    "entry_id": 144,
+    "title": "北刘寄奴",
+    "pinyin": "Beiliujinu",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 145,
+    "title": "北豆根",
+    "pinyin": "Beidougen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 146,
+    "title": "北沙参",
+    "pinyin": "Beishɑshen",
+    "dosage": "5～12g",
+    "dosage_text": "5～12g。"
+  },
+  {
+    "entry_id": 147,
+    "title": "四季青",
+    "pinyin": "Sijiqing",
+    "dosage": "15～60g",
+    "dosage_text": "15～60g。外用适量，水煎外涂。"
+  },
+  {
+    "entry_id": 148,
+    "title": "生姜",
+    "pinyin": "Shengjiɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 149,
+    "title": "仙茅",
+    "pinyin": "Xiɑnmɑo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 150,
+    "title": "仙鹤草",
+    "pinyin": "Xiɑnhecɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量。"
+  },
+  {
+    "entry_id": 151,
+    "title": "白及",
+    "pinyin": "Bɑiji",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g；研末吞服3～6g。外用适量。"
+  },
+  {
+    "entry_id": 152,
+    "title": "白术",
+    "pinyin": "Bɑizhu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 153,
+    "title": "白头翁",
+    "pinyin": "Bɑitouweng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 154,
+    "title": "白芍",
+    "pinyin": "Bɑishɑo",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 155,
+    "title": "白芷",
+    "pinyin": "Bɑizhi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 156,
+    "title": "白附子",
+    "pinyin": "Bɑifuzi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。一般炮制后用，外用生品适量捣烂，熬膏或研末以酒调敷患处。"
+  },
+  {
+    "entry_id": 157,
+    "title": "白茅根",
+    "pinyin": "Bɑimɑogen",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 158,
+    "title": "白矾",
+    "pinyin": "Bɑifɑn",
+    "dosage": "0.6～1.5g",
+    "dosage_text": "0.6～1.5g。外用适量，研末敷或化水洗患处。"
+  },
+  {
+    "entry_id": 159,
+    "title": "白果",
+    "pinyin": "Bɑiguo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 160,
+    "title": "白屈菜",
+    "pinyin": "Bɑiqucɑi",
+    "dosage": "9～18g",
+    "dosage_text": "9～18g。"
+  },
+  {
+    "entry_id": 161,
+    "title": "白前",
+    "pinyin": "Bɑiqiɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 162,
+    "title": "白扁豆",
+    "pinyin": "Bɑibiɑndou",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 163,
+    "title": "白蔹",
+    "pinyin": "Bɑiliɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，煎汤洗或研成极细粉敷患处。"
+  },
+  {
+    "entry_id": 164,
+    "title": "白鲜皮",
+    "pinyin": "Bɑixiɑnpi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，煎汤洗或研粉敷。"
+  },
+  {
+    "entry_id": 165,
+    "title": "白薇",
+    "pinyin": "Bɑiwei",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 166,
+    "title": "瓜子金",
+    "pinyin": "Guɑzijin",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 167,
+    "title": "瓜蒌",
+    "pinyin": "Guɑlou",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 168,
+    "title": "瓜蒌子",
+    "pinyin": "Guɑlouzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 169,
+    "title": "炒瓜蒌子",
+    "pinyin": "Chɑoguɑlouzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 170,
+    "title": "瓜蒌皮",
+    "pinyin": "Guɑloupi",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 171,
+    "title": "冬瓜皮",
+    "pinyin": "Dongguɑpi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 172,
+    "title": "冬虫夏草",
+    "pinyin": "Dongchongxiɑcɑo",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 173,
+    "title": "冬凌草",
+    "pinyin": "Donglingcɑo",
+    "dosage": "30～60g",
+    "dosage_text": "30～60g。外用适量。"
+  },
+  {
+    "entry_id": 174,
+    "title": "冬葵果",
+    "pinyin": "Dongkuiguo",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 175,
+    "title": "玄明粉",
+    "pinyin": "Xuɑnmingfen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，溶入煎好的汤液中服用。外用适量。"
+  },
+  {
+    "entry_id": 176,
+    "title": "玄参",
+    "pinyin": "Xuɑnshen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 177,
+    "title": "半边莲",
+    "pinyin": "Bɑnbiɑnliɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 178,
+    "title": "半枝莲",
+    "pinyin": "Bɑnzhiliɑn",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 179,
+    "title": "半夏",
+    "pinyin": "Bɑnxiɑ",
+    "dosage": "3～9g",
+    "dosage_text": "内服一般炮制后使用，3～9g。外用适量，磨汁涂或研末以酒调敷患处。"
+  },
+  {
+    "entry_id": 180,
+    "title": "法半夏",
+    "pinyin": "Fɑbɑnxiɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 181,
+    "title": "姜半夏",
+    "pinyin": "Jiɑngbɑnxiɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 182,
+    "title": "清半夏",
+    "pinyin": "Qingbɑnxiɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 183,
+    "title": "母丁香",
+    "pinyin": "Mudingxiɑng",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。内服或研末外敷。"
+  },
+  {
+    "entry_id": 184,
+    "title": "丝瓜络",
+    "pinyin": "Siguɑluo",
+    "dosage": "5～12g",
+    "dosage_text": "5～12g。"
+  },
+  {
+    "entry_id": 185,
+    "title": "老鹳草",
+    "pinyin": "Lɑoguɑncɑo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 186,
+    "title": "地龙",
+    "pinyin": "Dilong",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 187,
+    "title": "地枫皮",
+    "pinyin": "Difengpi",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 188,
+    "title": "地肤子",
+    "pinyin": "Difuzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎汤熏洗。"
+  },
+  {
+    "entry_id": 189,
+    "title": "地骨皮",
+    "pinyin": "Digupi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 190,
+    "title": "地黄",
+    "pinyin": "Dihuɑng",
+    "dosage": "10～15g",
+    "dosage_text": "鲜地黄　12～30g。生地黄　10～15g。"
+  },
+  {
+    "entry_id": 191,
+    "title": "熟地黄",
+    "pinyin": "Shudihuɑng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 192,
+    "title": "地榆",
+    "pinyin": "Diyu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，研末涂敷患处。"
+  },
+  {
+    "entry_id": 193,
+    "title": "地锦草",
+    "pinyin": "Dijincɑo",
+    "dosage": "9～20g",
+    "dosage_text": "9～20g。外用适量。"
+  },
+  {
+    "entry_id": 194,
+    "title": "芒硝",
+    "pinyin": "Mɑngxiɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g，一般不入煎剂，待汤剂煎得后，溶入汤液中服用。外用适量。"
+  },
+  {
+    "entry_id": 195,
+    "title": "亚乎奴（锡生藤）",
+    "pinyin": "Yɑhunu",
+    "dosage": null,
+    "dosage_text": "外伤肿痛，干粉适量加酒或蛋清调敷患处。创伤出血，干粉适量外敷，一日1次。"
+  },
+  {
+    "entry_id": 196,
+    "title": "亚麻子",
+    "pinyin": "Yɑmɑzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 197,
+    "title": "西瓜霜",
+    "pinyin": "Xiguɑshuɑng",
+    "dosage": "0.5～1.5g",
+    "dosage_text": "0.5～1.5g。外用适量，研末吹敷患处。"
+  },
+  {
+    "entry_id": 198,
+    "title": "西红花",
+    "pinyin": "Xihonghuɑ",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，煎服或沸水泡服。"
+  },
+  {
+    "entry_id": 199,
+    "title": "西青果",
+    "pinyin": "Xiqingguo",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g。"
+  },
+  {
+    "entry_id": 200,
+    "title": "西河柳",
+    "pinyin": "Xiheliu",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。外用适量，煎汤擦洗。"
+  },
+  {
+    "entry_id": 201,
+    "title": "西洋参",
+    "pinyin": "Xiyɑngshen",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，另煎兑服。"
+  },
+  {
+    "entry_id": 202,
+    "title": "百合",
+    "pinyin": "Bɑihe",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 203,
+    "title": "百部",
+    "pinyin": "Bɑibu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，水煎或酒浸。"
+  },
+  {
+    "entry_id": 204,
+    "title": "当归",
+    "pinyin": "Dɑnggui",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 205,
+    "title": "当药",
+    "pinyin": "Dɑngyɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g，儿童酌减。"
+  },
+  {
+    "entry_id": 206,
+    "title": "虫白蜡",
+    "pinyin": "Chongbɑilɑ",
+    "dosage": null,
+    "dosage_text": "无用量，作为赋形剂，制丸、片的润滑剂。"
+  },
+  {
+    "entry_id": 207,
+    "title": "肉苁蓉",
+    "pinyin": "Roucongrong",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 208,
+    "title": "肉豆蔻",
+    "pinyin": "Roudoukou",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 209,
+    "title": "肉桂",
+    "pinyin": "Rougui",
+    "dosage": "1～5g",
+    "dosage_text": "1～5g。"
+  },
+  {
+    "entry_id": 210,
+    "title": "朱砂",
+    "pinyin": "Zhushɑ",
+    "dosage": "0.1～0.5g",
+    "dosage_text": "0.1～0.5g，多入丸散服，不宜入煎剂。外用适量。"
+  },
+  {
+    "entry_id": 211,
+    "title": "朱砂根",
+    "pinyin": "Zhushɑgen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 212,
+    "title": "竹节参",
+    "pinyin": "Zhujieshen",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 213,
+    "title": "竹茹",
+    "pinyin": "Zhuru",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 214,
+    "title": "延胡索（元胡）",
+    "pinyin": "Yɑnhusuo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g；研末吞服，一次1.5～3g。"
+  },
+  {
+    "entry_id": 215,
+    "title": "华山参",
+    "pinyin": "Huɑshɑnshen",
+    "dosage": "0.1～0.2g",
+    "dosage_text": "0.1～0.2g。"
+  },
+  {
+    "entry_id": 216,
+    "title": "自然铜",
+    "pinyin": "Zirɑntong",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，多入丸散服，若入煎剂宜先煎。外用适量。"
+  },
+  {
+    "entry_id": 217,
+    "title": "伊贝母",
+    "pinyin": "Yibeimu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 218,
+    "title": "血余炭",
+    "pinyin": "Xueyutɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 219,
+    "title": "血竭",
+    "pinyin": "Xuejie",
+    "dosage": "1～2g",
+    "dosage_text": "研末，1～2g，或入丸剂。外用研末撒或入膏药用。"
+  },
+  {
+    "entry_id": 220,
+    "title": "全蝎",
+    "pinyin": "Quɑnxie",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 221,
+    "title": "合欢皮",
+    "pinyin": "Hehuɑnpi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量，研末调敷。"
+  },
+  {
+    "entry_id": 222,
+    "title": "合欢花",
+    "pinyin": "Hehuɑnhuɑ",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 223,
+    "title": "决明子",
+    "pinyin": "Juemingzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 224,
+    "title": "冰片（合成龙脑）",
+    "pinyin": "Bingpiɑn",
+    "dosage": "0.15～0.3g",
+    "dosage_text": "0.15～0.3g，入丸散用。外用研粉点敷患处。"
+  },
+  {
+    "entry_id": 225,
+    "title": "关黄柏",
+    "pinyin": "Guɑnhuɑngbo",
+    "dosage": "3～12g",
+    "dosage_text": "3～12g。外用适量。"
+  },
+  {
+    "entry_id": 226,
+    "title": "灯心草",
+    "pinyin": "Dengxincɑo",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。"
+  },
+  {
+    "entry_id": 227,
+    "title": "灯盏细辛（灯盏花）",
+    "pinyin": "Dengzhɑnxixin",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，煎服或研末蒸鸡蛋服。外用适量。"
+  },
+  {
+    "entry_id": 228,
+    "title": "安息香",
+    "pinyin": "Anxixiɑng",
+    "dosage": "0.6～1.5g",
+    "dosage_text": "0.6～1.5g，多入丸散用。"
+  },
+  {
+    "entry_id": 229,
+    "title": "防己",
+    "pinyin": "Fɑngji",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 230,
+    "title": "防风",
+    "pinyin": "Fɑngfeng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 231,
+    "title": "红大戟",
+    "pinyin": "Hongdɑji",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g，入丸散服，每次1g；内服醋制用。外用适量，生用。"
+  },
+  {
+    "entry_id": 232,
+    "title": "红花",
+    "pinyin": "Honghuɑ",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 233,
+    "title": "红花龙胆",
+    "pinyin": "Honghuɑlongdɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 234,
+    "title": "红芪",
+    "pinyin": "Hongqi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 235,
+    "title": "炙红芪",
+    "pinyin": "Zhihongqi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 236,
+    "title": "红豆蔻",
+    "pinyin": "Hongdoukou",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 237,
+    "title": "红参",
+    "pinyin": "Hongshen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，另煎兑服。"
+  },
+  {
+    "entry_id": 238,
+    "title": "红粉",
+    "pinyin": "Hongfen",
+    "dosage": null,
+    "dosage_text": "外用适量，研极细粉单用或与其他药味配成散剂或制成药捻。本品有毒，只可外用，不可内服；外用亦不宜久用；孕妇禁用。"
+  },
+  {
+    "entry_id": 239,
+    "title": "红景天",
+    "pinyin": "Hongjingtiɑn",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 240,
+    "title": "麦冬",
+    "pinyin": "Mɑidong",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 241,
+    "title": "麦芽",
+    "pinyin": "Mɑiyɑ",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g；回乳炒用60g。"
+  },
+  {
+    "entry_id": 242,
+    "title": "远志",
+    "pinyin": "Yuɑnzhi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 243,
+    "title": "赤小豆",
+    "pinyin": "Chixiɑodou",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。外用适量，研末调敷。"
+  },
+  {
+    "entry_id": 244,
+    "title": "赤石脂",
+    "pinyin": "Chishizhi",
+    "dosage": "9～12g",
+    "dosage_text": "9～12g，先煎。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 245,
+    "title": "赤芍",
+    "pinyin": "Chishɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 246,
+    "title": "芫花",
+    "pinyin": "Yuɑnhuɑ",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g。醋芫花研末吞服，一次0.6～0.9g，一日1次。外用适量。"
+  },
+  {
+    "entry_id": 247,
+    "title": "花椒",
+    "pinyin": "Huɑjiɑo",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。外用适量，煎汤熏洗。"
+  },
+  {
+    "entry_id": 248,
+    "title": "花蕊石",
+    "pinyin": "Huɑruishi",
+    "dosage": "4.5～9g",
+    "dosage_text": "4.5～9g，多研末服。外用适量。"
+  },
+  {
+    "entry_id": 249,
+    "title": "芥子",
+    "pinyin": "Jiezi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量。"
+  },
+  {
+    "entry_id": 250,
+    "title": "苍术",
+    "pinyin": "Cɑngzhu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 251,
+    "title": "苍耳子",
+    "pinyin": "Cɑng'erzi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 252,
+    "title": "芡实",
+    "pinyin": "Qiɑnshi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 253,
+    "title": "芦荟",
+    "pinyin": "Luhui",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g，宜入丸散。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 254,
+    "title": "芦根",
+    "pinyin": "Lugen",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g；鲜品用量加倍，或捣汁用。"
+  },
+  {
+    "entry_id": 255,
+    "title": "苏木",
+    "pinyin": "Sumu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 256,
+    "title": "苏合香",
+    "pinyin": "Suhexiɑng",
+    "dosage": "0.3～1g",
+    "dosage_text": "0.3～1g，宜入丸散服。"
+  },
+  {
+    "entry_id": 257,
+    "title": "杜仲",
+    "pinyin": "Duzhong",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 258,
+    "title": "杜仲叶",
+    "pinyin": "Duzhongye",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 259,
+    "title": "杠板归",
+    "pinyin": "Gɑngbɑngui",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，煎汤熏洗。"
+  },
+  {
+    "entry_id": 260,
+    "title": "巫山淫羊藿",
+    "pinyin": "Wushɑn Yinyɑnghuo",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 261,
+    "title": "豆蔻",
+    "pinyin": "Doukou",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，后下。"
+  },
+  {
+    "entry_id": 262,
+    "title": "两头尖",
+    "pinyin": "Liɑngtoujiɑn",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。外用适量。"
+  },
+  {
+    "entry_id": 263,
+    "title": "两面针",
+    "pinyin": "Liɑngmiɑnzhen",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，研末调敷或煎水洗患处。"
+  },
+  {
+    "entry_id": 264,
+    "title": "连钱草",
+    "pinyin": "Liɑnqiɑncɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，煎汤洗。"
+  },
+  {
+    "entry_id": 265,
+    "title": "连翘",
+    "pinyin": "Liɑnqiɑo",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 266,
+    "title": "吴茱萸",
+    "pinyin": "Wuzhuyu",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。外用适量。"
+  },
+  {
+    "entry_id": 267,
+    "title": "牡丹皮",
+    "pinyin": "Mudɑnpi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 268,
+    "title": "牡荆叶",
+    "pinyin": "Mujingye",
+    "dosage": null,
+    "dosage_text": "鲜用，供提取牡荆油用。"
+  },
+  {
+    "entry_id": 269,
+    "title": "牡蛎",
+    "pinyin": "Muli",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g，先煎。"
+  },
+  {
+    "entry_id": 270,
+    "title": "体外培育牛黄",
+    "pinyin": "Tiwɑi Peiyu Niuhuɑng",
+    "dosage": "0.15～0.35g",
+    "dosage_text": "0.15～0.35g，多入丸散用。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 271,
+    "title": "何首乌",
+    "pinyin": "Heshouwu",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 272,
+    "title": "制何首乌",
+    "pinyin": "Zhiheshouwu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 273,
+    "title": "伸筋草",
+    "pinyin": "Shenjincɑo",
+    "dosage": "3～12g",
+    "dosage_text": "3～12g。"
+  },
+  {
+    "entry_id": 274,
+    "title": "皂角刺",
+    "pinyin": "Zɑojiɑoci",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。外用适量，醋蒸取汁涂患处。"
+  },
+  {
+    "entry_id": 275,
+    "title": "皂矾（绿矾）",
+    "pinyin": "Zɑofan",
+    "dosage": "0.8～1.6g",
+    "dosage_text": "0.8～1.6g。外用适量。"
+  },
+  {
+    "entry_id": 276,
+    "title": "佛手",
+    "pinyin": "Foshou",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 277,
+    "title": "余甘子",
+    "pinyin": "Yugɑnzi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，多入丸散服。"
+  },
+  {
+    "entry_id": 278,
+    "title": "谷芽",
+    "pinyin": "Guyɑ",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 279,
+    "title": "谷精草",
+    "pinyin": "Gujingcɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 280,
+    "title": "龟甲",
+    "pinyin": "Guijiɑ",
+    "dosage": "9～24g",
+    "dosage_text": "9～24g，先煎。"
+  },
+  {
+    "entry_id": 281,
+    "title": "龟甲胶",
+    "pinyin": "Guijiɑjiɑo",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，烊化兑服。"
+  },
+  {
+    "entry_id": 282,
+    "title": "辛夷",
+    "pinyin": "Xinyi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g，包煎。外用适量。"
+  },
+  {
+    "entry_id": 283,
+    "title": "羌活",
+    "pinyin": "Qiɑnghuo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 284,
+    "title": "沙苑子",
+    "pinyin": "Shɑyuɑnzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 285,
+    "title": "沙棘",
+    "pinyin": "Shɑji",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 286,
+    "title": "沉香",
+    "pinyin": "Chenxiɑng",
+    "dosage": "1～5g",
+    "dosage_text": "1～5g，后下。"
+  },
+  {
+    "entry_id": 287,
+    "title": "没药",
+    "pinyin": "Moyɑo",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g，炮制去油，多入丸散用。"
+  },
+  {
+    "entry_id": 288,
+    "title": "诃子",
+    "pinyin": "Hezi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 289,
+    "title": "补骨脂",
+    "pinyin": "Buguzhi",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。外用20%～30%酊剂涂患处。"
+  },
+  {
+    "entry_id": 290,
+    "title": "灵芝",
+    "pinyin": "Lingzhi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 291,
+    "title": "阿胶",
+    "pinyin": "Ejiɑo",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。烊化兑服。"
+  },
+  {
+    "entry_id": 292,
+    "title": "阿魏",
+    "pinyin": "Awei",
+    "dosage": "1～1.5g",
+    "dosage_text": "1～1.5g，多入丸散和外用膏药。"
+  },
+  {
+    "entry_id": 293,
+    "title": "陈皮",
+    "pinyin": "Chenpi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 294,
+    "title": "附子",
+    "pinyin": "Fuzi",
+    "dosage": "3～15g",
+    "dosage_text": "3～15g，先煎，久煎。"
+  },
+  {
+    "entry_id": 295,
+    "title": "忍冬藤",
+    "pinyin": "Rendongteng",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 296,
+    "title": "鸡内金",
+    "pinyin": "Jineijin",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 297,
+    "title": "鸡血藤",
+    "pinyin": "Jixueteng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 298,
+    "title": "鸡骨草",
+    "pinyin": "Jigucɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 299,
+    "title": "鸡冠花",
+    "pinyin": "Jiguɑnhuɑ",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 300,
+    "title": "青风藤",
+    "pinyin": "Qingfengteng",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 301,
+    "title": "青叶胆",
+    "pinyin": "Qingyedɑn",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 302,
+    "title": "青皮",
+    "pinyin": "Qingpi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 303,
+    "title": "青果",
+    "pinyin": "Qingguo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 304,
+    "title": "青葙子",
+    "pinyin": "Qingxiɑngzi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 305,
+    "title": "青蒿",
+    "pinyin": "Qinghɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g，后下。"
+  },
+  {
+    "entry_id": 306,
+    "title": "青礞石",
+    "pinyin": "Qingmengshi",
+    "dosage": "3～6g",
+    "dosage_text": "多入丸散服，3～6g；煎汤10～15g，布包先煎。"
+  },
+  {
+    "entry_id": 307,
+    "title": "青黛",
+    "pinyin": "Qingdɑi",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，宜入丸散用。外用适量。"
+  },
+  {
+    "entry_id": 308,
+    "title": "玫瑰花",
+    "pinyin": "Meiguihuɑ",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 309,
+    "title": "苦木",
+    "pinyin": "Kumu",
+    "dosage": "3～4.5g",
+    "dosage_text": "枝3～4.5g；叶1～3g。外用适量。"
+  },
+  {
+    "entry_id": 310,
+    "title": "苦玄参",
+    "pinyin": "Kuxuɑnshen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量。"
+  },
+  {
+    "entry_id": 311,
+    "title": "苦地丁",
+    "pinyin": "Kudiding",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎汤洗患处。"
+  },
+  {
+    "entry_id": 312,
+    "title": "苦杏仁",
+    "pinyin": "Kuxingren",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g，生品入煎剂后下。"
+  },
+  {
+    "entry_id": 313,
+    "title": "苦参",
+    "pinyin": "Kushen",
+    "dosage": "4.5～9g",
+    "dosage_text": "4.5～9g。外用适量，煎汤洗患处。"
+  },
+  {
+    "entry_id": 314,
+    "title": "苦楝皮",
+    "pinyin": "Kuliɑnpi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。外用适量，研末，用猪脂调敷患处。"
+  },
+  {
+    "entry_id": 315,
+    "title": "苘麻子",
+    "pinyin": "Qingmɑzi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 316,
+    "title": "枇杷叶",
+    "pinyin": "Pipɑye",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 317,
+    "title": "板蓝根",
+    "pinyin": "Bɑnlɑngen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 318,
+    "title": "松花粉",
+    "pinyin": "Songhuɑfen",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 319,
+    "title": "枫香脂",
+    "pinyin": "Fengxiɑngzhi",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，宜入丸散服。外用适量。"
+  },
+  {
+    "entry_id": 320,
+    "title": "刺五加",
+    "pinyin": "Ciwujiɑ",
+    "dosage": "9～27g",
+    "dosage_text": "9～27g。"
+  },
+  {
+    "entry_id": 321,
+    "title": "郁李仁",
+    "pinyin": "Yuliren",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 322,
+    "title": "郁金",
+    "pinyin": "Yujin",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 323,
+    "title": "虎杖",
+    "pinyin": "Huzhɑng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，制成煎液或油膏涂敷。"
+  },
+  {
+    "entry_id": 324,
+    "title": "昆布",
+    "pinyin": "Kunbu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 325,
+    "title": "明党参",
+    "pinyin": "Mingdɑngshen",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 326,
+    "title": "岩白菜",
+    "pinyin": "Yɑnbɑicɑi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量。"
+  },
+  {
+    "entry_id": 327,
+    "title": "罗布麻叶",
+    "pinyin": "Luobumɑye",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 328,
+    "title": "罗汉果",
+    "pinyin": "Luohɑnguo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 329,
+    "title": "知母",
+    "pinyin": "Zhimu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 330,
+    "title": "垂盆草",
+    "pinyin": "Chuipencɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 331,
+    "title": "委陵菜",
+    "pinyin": "Weilingcɑi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量。"
+  },
+  {
+    "entry_id": 332,
+    "title": "使君子",
+    "pinyin": "Shijunzi",
+    "dosage": "9～12g",
+    "dosage_text": "使君子9～12g，捣碎入煎剂；使君子仁6～9g，多入丸散或单用，作1～2次分服。小儿每岁1～1.5粒，炒香嚼服，1日总量不超过20粒。"
+  },
+  {
+    "entry_id": 333,
+    "title": "侧柏叶",
+    "pinyin": "Cebɑiye",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量。"
+  },
+  {
+    "entry_id": 334,
+    "title": "佩兰",
+    "pinyin": "Peilɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 335,
+    "title": "金龙胆草",
+    "pinyin": "Jinlongdɑncɑo",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 336,
+    "title": "金果榄",
+    "pinyin": "Jinguolɑn",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末吹喉或醋磨涂敷患处。"
+  },
+  {
+    "entry_id": 337,
+    "title": "金沸草",
+    "pinyin": "Jinfeicɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 338,
+    "title": "金荞麦",
+    "pinyin": "Jinqiɑomɑi",
+    "dosage": "15～45g",
+    "dosage_text": "15～45g，用水或黄酒隔水密闭炖服。"
+  },
+  {
+    "entry_id": 339,
+    "title": "金钱白花蛇",
+    "pinyin": "Jinqiɑnbɑihuɑshe",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。研粉吞服1～1.5g。"
+  },
+  {
+    "entry_id": 340,
+    "title": "金钱草",
+    "pinyin": "Jinqiɑncɑo",
+    "dosage": "15～60g",
+    "dosage_text": "15～60g。"
+  },
+  {
+    "entry_id": 341,
+    "title": "金铁锁",
+    "pinyin": "Jintiesuo",
+    "dosage": "0.1～0.3g",
+    "dosage_text": "0.1～0.3g，多入丸散服。外用适量。"
+  },
+  {
+    "entry_id": 342,
+    "title": "金银花",
+    "pinyin": "Jinyinhuɑ",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 343,
+    "title": "金樱子",
+    "pinyin": "Jinyingzi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 344,
+    "title": "金礞石",
+    "pinyin": "Jinmengshi",
+    "dosage": "3～6g",
+    "dosage_text": "多入丸散服，3～6g；煎汤10～15g，布包先煎。"
+  },
+  {
+    "entry_id": 345,
+    "title": "乳香",
+    "pinyin": "Ruxiɑng",
+    "dosage": "3～5g",
+    "dosage_text": "煎汤或入丸、散，3～5g；外用适量，研末调敷。"
+  },
+  {
+    "entry_id": 346,
+    "title": "肿节风",
+    "pinyin": "Zhongjiefeng",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 347,
+    "title": "鱼腥草",
+    "pinyin": "Yuxingcɑo",
+    "dosage": "15～25g",
+    "dosage_text": "15～25g，不宜久煎；鲜品用量加倍，水煎或捣汁服。外用适量，捣敷或煎汤熏洗患处。"
+  },
+  {
+    "entry_id": 348,
+    "title": "狗脊",
+    "pinyin": "Gouji",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 349,
+    "title": "京大戟",
+    "pinyin": "Jingdɑji",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g。入丸散服，每次1g；内服醋制用。外用适量，生用。"
+  },
+  {
+    "entry_id": 350,
+    "title": "闹羊花",
+    "pinyin": "Nɑoyɑnghuɑ",
+    "dosage": "0.6～1.5g",
+    "dosage_text": "0.6～1.5g，浸酒或入丸散。外用适量，煎水洗。"
+  },
+  {
+    "entry_id": 351,
+    "title": "卷柏",
+    "pinyin": "Juɑnbɑi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 352,
+    "title": "炉甘石",
+    "pinyin": "Lugɑnshi",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 353,
+    "title": "油松节",
+    "pinyin": "Yousongjie",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 354,
+    "title": "泽兰",
+    "pinyin": "Zelɑn",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 355,
+    "title": "泽泻",
+    "pinyin": "Zexie",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 356,
+    "title": "降香",
+    "pinyin": "Jiɑngxiɑng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，后下。外用适量，研细末敷患处。"
+  },
+  {
+    "entry_id": 357,
+    "title": "细辛",
+    "pinyin": "Xixin",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。散剂每次服0.5～1g。外用适量。"
+  },
+  {
+    "entry_id": 358,
+    "title": "贯叶金丝桃",
+    "pinyin": "Guɑnyejinsitɑo",
+    "dosage": "2～3g",
+    "dosage_text": "2～3g。"
+  },
+  {
+    "entry_id": 359,
+    "title": "珍珠",
+    "pinyin": "Zhenzhu",
+    "dosage": "0.1～0.3g",
+    "dosage_text": "0.1～0.3g，多入丸散用。外用适量。"
+  },
+  {
+    "entry_id": 360,
+    "title": "珍珠母",
+    "pinyin": "Zhenzhumu",
+    "dosage": "10～25g",
+    "dosage_text": "10～25g，先煎。"
+  },
+  {
+    "entry_id": 361,
+    "title": "荆芥",
+    "pinyin": "Jingjie",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 362,
+    "title": "荆芥炭",
+    "pinyin": "Jingjietɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 363,
+    "title": "荆芥穗",
+    "pinyin": "Jingjiesui",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 364,
+    "title": "荆芥穗炭",
+    "pinyin": "Jingjiesuitɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 365,
+    "title": "茜草",
+    "pinyin": "Qiɑncɑo",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 366,
+    "title": "荜茇",
+    "pinyin": "Bibo",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。外用适量，研末塞龋齿孔中。"
+  },
+  {
+    "entry_id": 367,
+    "title": "荜澄茄",
+    "pinyin": "Bichengqie",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。"
+  },
+  {
+    "entry_id": 368,
+    "title": "草乌",
+    "pinyin": "Cɑowu",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 369,
+    "title": "制草乌",
+    "pinyin": "Zhicɑowu",
+    "dosage": "1.5～3g",
+    "dosage_text": "1.5～3g，宜先煎、久煎。"
+  },
+  {
+    "entry_id": 370,
+    "title": "草乌叶",
+    "pinyin": "Cɑowuye",
+    "dosage": "1～1.2g",
+    "dosage_text": "1～1.2g，多入丸散用。"
+  },
+  {
+    "entry_id": 371,
+    "title": "草豆蔻",
+    "pinyin": "Cɑodoukou",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 372,
+    "title": "草果",
+    "pinyin": "Cɑoguo",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 373,
+    "title": "茵陈",
+    "pinyin": "Yinchen",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。外用适量，煎汤熏洗。"
+  },
+  {
+    "entry_id": 374,
+    "title": "茯苓",
+    "pinyin": "Fuling",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 375,
+    "title": "茯苓皮",
+    "pinyin": "Fulingpi",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 376,
+    "title": "茺蔚子",
+    "pinyin": "Chongweizi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 377,
+    "title": "胡芦巴",
+    "pinyin": "Hulubɑ",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 378,
+    "title": "胡黄连",
+    "pinyin": "Huhuɑngliɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 379,
+    "title": "胡椒",
+    "pinyin": "Hujiɑo",
+    "dosage": "0.6～1.5g",
+    "dosage_text": "0.6～1.5g，研粉吞服。外用适量。"
+  },
+  {
+    "entry_id": 380,
+    "title": "荔枝核",
+    "pinyin": "Lizhihe",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 381,
+    "title": "南五味子",
+    "pinyin": "Nɑnwuweizi",
+    "dosage": "2～6g",
+    "dosage_text": "2～6g。"
+  },
+  {
+    "entry_id": 382,
+    "title": "南沙参",
+    "pinyin": "Nɑnshɑshen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 383,
+    "title": "南板蓝根",
+    "pinyin": "Nɑnbɑnlɑngen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 384,
+    "title": "南鹤虱",
+    "pinyin": "Nɑnheshi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 385,
+    "title": "枳壳",
+    "pinyin": "Zhiqiɑo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 386,
+    "title": "枳实",
+    "pinyin": "Zhishi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 387,
+    "title": "柏子仁",
+    "pinyin": "Bɑiziren",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 388,
+    "title": "栀子",
+    "pinyin": "Zhizi",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。外用生品适量，研末调敷。"
+  },
+  {
+    "entry_id": 389,
+    "title": "焦栀子",
+    "pinyin": "Jiɑozhizi",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 390,
+    "title": "枸杞子",
+    "pinyin": "Gouqizi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 391,
+    "title": "枸骨叶",
+    "pinyin": "Gouguye",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 392,
+    "title": "柿蒂",
+    "pinyin": "Shidi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 393,
+    "title": "威灵仙",
+    "pinyin": "Weilingxiɑn",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 394,
+    "title": "厚朴",
+    "pinyin": "Houpo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 395,
+    "title": "厚朴花",
+    "pinyin": "Houpohuɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 396,
+    "title": "砂仁",
+    "pinyin": "Shɑren",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，后下。"
+  },
+  {
+    "entry_id": 397,
+    "title": "牵牛子",
+    "pinyin": "Qiɑnniuzi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。入丸散服，每次1.5～3g。"
+  },
+  {
+    "entry_id": 398,
+    "title": "轻粉",
+    "pinyin": "Qingfen",
+    "dosage": "0.1～0.2g",
+    "dosage_text": "外用适量，研末掺敷患处。内服每次0.1～0.2g，一日1～2次，多入丸剂或装胶囊服，服后漱口。"
+  },
+  {
+    "entry_id": 399,
+    "title": "鸦胆子",
+    "pinyin": "Yɑdɑnzi",
+    "dosage": "0.5～2g",
+    "dosage_text": "0.5～2g，用龙眼肉包裹或装入胶囊吞服。外用适量。"
+  },
+  {
+    "entry_id": 400,
+    "title": "韭菜子",
+    "pinyin": "Jiucɑizi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 401,
+    "title": "哈蟆油",
+    "pinyin": "Hɑmɑyou",
+    "dosage": "5～15g",
+    "dosage_text": "5～15g，用水浸泡，炖服，或作丸剂服。"
+  },
+  {
+    "entry_id": 402,
+    "title": "骨碎补",
+    "pinyin": "Gusuibu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 403,
+    "title": "钟乳石",
+    "pinyin": "Zhongrushi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，先煎。"
+  },
+  {
+    "entry_id": 404,
+    "title": "钩藤",
+    "pinyin": "Gouteng",
+    "dosage": "3～12g",
+    "dosage_text": "3～12g，后下。"
+  },
+  {
+    "entry_id": 405,
+    "title": "香加皮",
+    "pinyin": "Xiɑngjiɑpi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 406,
+    "title": "香附",
+    "pinyin": "Xiɑngfu",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 407,
+    "title": "香橼",
+    "pinyin": "Xiɑngyuɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 408,
+    "title": "香薷",
+    "pinyin": "Xiɑngru",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 409,
+    "title": "重楼",
+    "pinyin": "Chonglou",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末调敷。"
+  },
+  {
+    "entry_id": 410,
+    "title": "禹州漏芦",
+    "pinyin": "Yuzhouloulu",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 411,
+    "title": "禹余粮",
+    "pinyin": "Yuyuliɑng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，先煎；或入丸散。"
+  },
+  {
+    "entry_id": 412,
+    "title": "胆南星",
+    "pinyin": "Dɑnnɑnxing",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 413,
+    "title": "胖大海",
+    "pinyin": "Pɑngdɑhɑi",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 414,
+    "title": "独一味",
+    "pinyin": "Duyiwei",
+    "dosage": "2～3g",
+    "dosage_text": "2～3g。"
+  },
+  {
+    "entry_id": 415,
+    "title": "独活",
+    "pinyin": "Duhuo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 416,
+    "title": "急性子",
+    "pinyin": "Jixingzi",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。"
+  },
+  {
+    "entry_id": 417,
+    "title": "姜黄",
+    "pinyin": "Jiɑnghuɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。外用适量。"
+  },
+  {
+    "entry_id": 418,
+    "title": "前胡",
+    "pinyin": "Qiɑnhu",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 419,
+    "title": "首乌藤",
+    "pinyin": "Shouwuteng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎水洗患处。"
+  },
+  {
+    "entry_id": 420,
+    "title": "洪连",
+    "pinyin": "Hongliɑn",
+    "dosage": "1～6g",
+    "dosage_text": "1～6g。"
+  },
+  {
+    "entry_id": 421,
+    "title": "洋金花",
+    "pinyin": "Yɑngjinhuɑ",
+    "dosage": "0.3～0.6g",
+    "dosage_text": "0.3～0.6g，宜入丸散；亦可作卷烟分次燃吸（一日量不超过1.5g）。外用适量。"
+  },
+  {
+    "entry_id": 422,
+    "title": "穿山龙",
+    "pinyin": "Chuɑnshɑnlong",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g；也可制成酒剂用。"
+  },
+  {
+    "entry_id": 423,
+    "title": "穿心莲",
+    "pinyin": "Chuɑnxinliɑn",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。外用适量。"
+  },
+  {
+    "entry_id": 424,
+    "title": "络石藤",
+    "pinyin": "Luoshiteng",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 425,
+    "title": "秦艽",
+    "pinyin": "Qinjiɑo",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 426,
+    "title": "秦皮",
+    "pinyin": "Qinpi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量，煎洗患处。"
+  },
+  {
+    "entry_id": 427,
+    "title": "珠子参",
+    "pinyin": "Zhuzishen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 428,
+    "title": "莱菔子",
+    "pinyin": "Lɑifuzi",
+    "dosage": "5～12g",
+    "dosage_text": "5～12g。"
+  },
+  {
+    "entry_id": 429,
+    "title": "莲子",
+    "pinyin": "Liɑnzi",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 430,
+    "title": "莲子心",
+    "pinyin": "Liɑnzixin",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。"
+  },
+  {
+    "entry_id": 431,
+    "title": "莲房",
+    "pinyin": "Liɑnfɑng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 432,
+    "title": "莲须",
+    "pinyin": "Liɑnxu",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。"
+  },
+  {
+    "entry_id": 433,
+    "title": "莪术",
+    "pinyin": "Ezhu",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 434,
+    "title": "荷叶",
+    "pinyin": "Heye",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g；荷叶炭3～6g。"
+  },
+  {
+    "entry_id": 435,
+    "title": "桂枝",
+    "pinyin": "Guizhi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 436,
+    "title": "桔梗",
+    "pinyin": "Jiegeng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 437,
+    "title": "桃仁",
+    "pinyin": "Tɑoren",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 438,
+    "title": "桃枝",
+    "pinyin": "Tɑozhi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎汤洗浴。"
+  },
+  {
+    "entry_id": 439,
+    "title": "核桃仁",
+    "pinyin": "Hetɑoren",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 440,
+    "title": "夏天无",
+    "pinyin": "Xiɑtiɑnwu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g，研末分3次服。"
+  },
+  {
+    "entry_id": 441,
+    "title": "夏枯草",
+    "pinyin": "Xiɑkucɑo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 442,
+    "title": "柴胡",
+    "pinyin": "Chɑihu",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 443,
+    "title": "党参",
+    "pinyin": "Dɑngshen",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 444,
+    "title": "鸭跖草",
+    "pinyin": "Yɑzhicɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量。"
+  },
+  {
+    "entry_id": 445,
+    "title": "铁皮石斛",
+    "pinyin": "Tiepishihu",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 446,
+    "title": "积雪草",
+    "pinyin": "Jixuecɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 447,
+    "title": "臭灵丹草",
+    "pinyin": "Choulingdɑncɑo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 448,
+    "title": "射干",
+    "pinyin": "Shegɑn",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 449,
+    "title": "徐长卿",
+    "pinyin": "Xuchɑngqing",
+    "dosage": "3～12g",
+    "dosage_text": "3～12g，后下。"
+  },
+  {
+    "entry_id": 450,
+    "title": "狼毒",
+    "pinyin": "Lɑngdu",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 451,
+    "title": "凌霄花",
+    "pinyin": "Lingxiɑohuɑ",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。"
+  },
+  {
+    "entry_id": 452,
+    "title": "高山辣根菜",
+    "pinyin": "Gɑoshɑnlɑgencɑi",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g；或入丸、散。外用适量，研末敷。"
+  },
+  {
+    "entry_id": 453,
+    "title": "高良姜",
+    "pinyin": "Gɑoliɑngjiɑng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 454,
+    "title": "拳参",
+    "pinyin": "Quɑnshen",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量。"
+  },
+  {
+    "entry_id": 455,
+    "title": "粉萆薢",
+    "pinyin": "Fenbixie",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 456,
+    "title": "粉葛",
+    "pinyin": "Fenge",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 457,
+    "title": "益母草",
+    "pinyin": "Yimucɑo",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g；鲜品12～40g。"
+  },
+  {
+    "entry_id": 458,
+    "title": "益智",
+    "pinyin": "Yizhi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 459,
+    "title": "浙贝母",
+    "pinyin": "Zhebeimu",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 460,
+    "title": "娑罗子",
+    "pinyin": "Suoluozi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 461,
+    "title": "海马",
+    "pinyin": "Hɑimɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 462,
+    "title": "海风藤",
+    "pinyin": "Hɑifengteng",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 463,
+    "title": "海龙",
+    "pinyin": "Hɑilong",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 464,
+    "title": "海金沙",
+    "pinyin": "Hɑijinshɑ",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g，包煎。"
+  },
+  {
+    "entry_id": 465,
+    "title": "海螵蛸",
+    "pinyin": "Hɑipiɑoxiɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 466,
+    "title": "海藻",
+    "pinyin": "Hɑizɑo",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 467,
+    "title": "浮萍",
+    "pinyin": "Fuping",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，煎汤浸洗。"
+  },
+  {
+    "entry_id": 468,
+    "title": "通关藤",
+    "pinyin": "Tongguɑnteng",
+    "dosage": "20～30g",
+    "dosage_text": "20～30g。外用适量。"
+  },
+  {
+    "entry_id": 469,
+    "title": "通草",
+    "pinyin": "Tongcɑo",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。"
+  },
+  {
+    "entry_id": 470,
+    "title": "预知子",
+    "pinyin": "Yuzhizi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 471,
+    "title": "桑叶",
+    "pinyin": "Sɑngye",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 472,
+    "title": "桑白皮",
+    "pinyin": "Sɑngbɑipi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 473,
+    "title": "桑枝",
+    "pinyin": "Sɑngzhi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 474,
+    "title": "桑寄生",
+    "pinyin": "Sɑngjisheng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 475,
+    "title": "桑椹",
+    "pinyin": "Sɑngshen",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 476,
+    "title": "桑螵蛸",
+    "pinyin": "Sɑngpiɑoxiɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 477,
+    "title": "黄山药",
+    "pinyin": "Huɑngshɑnyɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，捣烂敷患处。"
+  },
+  {
+    "entry_id": 478,
+    "title": "黄芩",
+    "pinyin": "Huɑngqin",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 479,
+    "title": "黄芪",
+    "pinyin": "Huɑngqi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 480,
+    "title": "炙黄芪",
+    "pinyin": "Zhihuɑngqi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 481,
+    "title": "黄连",
+    "pinyin": "Huɑngliɑn",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。外用适量。"
+  },
+  {
+    "entry_id": 482,
+    "title": "黄柏",
+    "pinyin": "Huɑngbo",
+    "dosage": "3～12g",
+    "dosage_text": "3～12g。外用适量。"
+  },
+  {
+    "entry_id": 483,
+    "title": "黄蜀葵花",
+    "pinyin": "Huɑngshukuihuɑ",
+    "dosage": "10～30g",
+    "dosage_text": "10～30g；研末内服，3～5g。外用适量，研末调敷。"
+  },
+  {
+    "entry_id": 484,
+    "title": "黄精",
+    "pinyin": "Huɑngjing",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 485,
+    "title": "黄藤",
+    "pinyin": "Huɑngteng",
+    "dosage": "30～60g",
+    "dosage_text": "30～60g。外用适量。"
+  },
+  {
+    "entry_id": 486,
+    "title": "菥蓂",
+    "pinyin": "Ximing",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 487,
+    "title": "菝葜",
+    "pinyin": "Bɑqiɑ",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 488,
+    "title": "菟丝子",
+    "pinyin": "Tusizi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。外用适量。"
+  },
+  {
+    "entry_id": 489,
+    "title": "菊苣",
+    "pinyin": "Juju",
+    "dosage": "9～18g",
+    "dosage_text": "9～18g。"
+  },
+  {
+    "entry_id": 490,
+    "title": "菊花",
+    "pinyin": "Juhuɑ",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 491,
+    "title": "梅花",
+    "pinyin": "Meihuɑ",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。"
+  },
+  {
+    "entry_id": 492,
+    "title": "救必应",
+    "pinyin": "Jiubiying",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。外用适量，煎浓汤涂敷患处。"
+  },
+  {
+    "entry_id": 493,
+    "title": "常山",
+    "pinyin": "Chɑngshɑn",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。"
+  },
+  {
+    "entry_id": 494,
+    "title": "野马追",
+    "pinyin": "Yemɑzhui",
+    "dosage": "30～60g",
+    "dosage_text": "30～60g。"
+  },
+  {
+    "entry_id": 495,
+    "title": "野木瓜",
+    "pinyin": "Yemuguɑ",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 496,
+    "title": "野菊花",
+    "pinyin": "Yejuhuɑ",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎汤外洗或制膏外涂。"
+  },
+  {
+    "entry_id": 497,
+    "title": "蛇床子",
+    "pinyin": "Shechuɑngzi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。外用适量，多煎汤熏洗，或研末调敷。"
+  },
+  {
+    "entry_id": 498,
+    "title": "蛇蜕",
+    "pinyin": "Shetui",
+    "dosage": "2～3g",
+    "dosage_text": "2～3g；研末吞服0.3～0.6g。"
+  },
+  {
+    "entry_id": 499,
+    "title": "银杏叶",
+    "pinyin": "Yinxingye",
+    "dosage": "9～12g",
+    "dosage_text": "9～12g。"
+  },
+  {
+    "entry_id": 500,
+    "title": "银柴胡",
+    "pinyin": "Yinchɑihu",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 501,
+    "title": "甜瓜子",
+    "pinyin": "Tiɑnguɑzi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 502,
+    "title": "猪牙皂",
+    "pinyin": "Zhuyɑzɑo",
+    "dosage": "1～1.5g",
+    "dosage_text": "1～1.5g，多入丸散用。外用适量，研末吹鼻取嚏或研末调敷患处。"
+  },
+  {
+    "entry_id": 503,
+    "title": "猪苓",
+    "pinyin": "Zhuling",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 504,
+    "title": "猪胆粉",
+    "pinyin": "Zhudɑnfen",
+    "dosage": "0.3～0.6g",
+    "dosage_text": "0.3～0.6g，冲服或入丸散。外用适量，研末或水调涂敷患处。"
+  },
+  {
+    "entry_id": 505,
+    "title": "猫爪草",
+    "pinyin": "Mɑozhɑocɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g，单味药可用至120g。"
+  },
+  {
+    "entry_id": 506,
+    "title": "麻黄",
+    "pinyin": "Mɑhuɑng",
+    "dosage": "2～10g",
+    "dosage_text": "2～10g。"
+  },
+  {
+    "entry_id": 507,
+    "title": "麻黄根",
+    "pinyin": "Mɑhuɑnggen",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，研粉撒扑。"
+  },
+  {
+    "entry_id": 508,
+    "title": "鹿角",
+    "pinyin": "Lujiɑo",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g。"
+  },
+  {
+    "entry_id": 509,
+    "title": "鹿角胶",
+    "pinyin": "Lujiɑojiɑo",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，烊化兑服。"
+  },
+  {
+    "entry_id": 510,
+    "title": "鹿角霜",
+    "pinyin": "Lujiɑoshuɑng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，先煎。"
+  },
+  {
+    "entry_id": 511,
+    "title": "鹿茸",
+    "pinyin": "Lurong",
+    "dosage": "1～2g",
+    "dosage_text": "1～2g，研末冲服。"
+  },
+  {
+    "entry_id": 512,
+    "title": "鹿衔草",
+    "pinyin": "Luxiɑncɑo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 513,
+    "title": "商陆",
+    "pinyin": "Shɑnglu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。外用适量，煎汤熏洗。"
+  },
+  {
+    "entry_id": 514,
+    "title": "旋覆花",
+    "pinyin": "Xuɑnfuhuɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，包煎。"
+  },
+  {
+    "entry_id": 515,
+    "title": "羚羊角",
+    "pinyin": "Lingyɑngjiɑo",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g，宜另煎2小时以上；磨汁或研粉服，每次0.3～0.6g。"
+  },
+  {
+    "entry_id": 516,
+    "title": "断血流",
+    "pinyin": "Duɑnxueliu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，研末敷患处。"
+  },
+  {
+    "entry_id": 517,
+    "title": "淫羊藿",
+    "pinyin": "Yinyɑnghuo",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 518,
+    "title": "淡竹叶",
+    "pinyin": "Dɑnzhuye",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 519,
+    "title": "淡豆豉",
+    "pinyin": "Dɑndouchi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 520,
+    "title": "密蒙花",
+    "pinyin": "Mimenghuɑ",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 521,
+    "title": "续断",
+    "pinyin": "Xuduɑn",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 522,
+    "title": "绵马贯众",
+    "pinyin": "Miɑnmɑguɑnzhong",
+    "dosage": "4.5～9g",
+    "dosage_text": "4.5～9g。"
+  },
+  {
+    "entry_id": 523,
+    "title": "绵马贯众炭",
+    "pinyin": "Miɑnmɑguɑnzhongtɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 524,
+    "title": "绵萆薢",
+    "pinyin": "Miɑnbixie",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 525,
+    "title": "斑蝥",
+    "pinyin": "Bɑnmɑo",
+    "dosage": "0.03～0.06g",
+    "dosage_text": "0.03～0.06g，炮制后多入丸散用。外用适量，研末或浸酒醋，或制油膏涂敷患处，不宜大面积用。"
+  },
+  {
+    "entry_id": 526,
+    "title": "款冬花",
+    "pinyin": "Kuɑndonghuɑ",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 527,
+    "title": "葛根",
+    "pinyin": "Gegen",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 528,
+    "title": "葶苈子",
+    "pinyin": "Tinglizi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g，包煎。"
+  },
+  {
+    "entry_id": 529,
+    "title": "萹蓄",
+    "pinyin": "Biɑnxu",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。外用适量，煎洗患处。"
+  },
+  {
+    "entry_id": 530,
+    "title": "楮实子",
+    "pinyin": "Chushizi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 531,
+    "title": "棕榈",
+    "pinyin": "Zonglü",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，一般炮制后用。"
+  },
+  {
+    "entry_id": 532,
+    "title": "硫黄",
+    "pinyin": "Liuhuɑng",
+    "dosage": "1.5～3g",
+    "dosage_text": "外用适量，研末油调涂敷患处。内服1.5～3g，炮制后入丸散服。"
+  },
+  {
+    "entry_id": 533,
+    "title": "雄黄",
+    "pinyin": "Xionghuɑng",
+    "dosage": "0.05～0.1g",
+    "dosage_text": "0.05～0.1g，入丸散用。外用适量，熏涂患处。"
+  },
+  {
+    "entry_id": 534,
+    "title": "紫石英",
+    "pinyin": "Zishiying",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g，先煎。"
+  },
+  {
+    "entry_id": 535,
+    "title": "紫花地丁",
+    "pinyin": "Zihuɑdiding",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 536,
+    "title": "紫花前胡",
+    "pinyin": "Zihuɑqiɑnhu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，或入丸、散。"
+  },
+  {
+    "entry_id": 537,
+    "title": "紫苏子",
+    "pinyin": "Zisuzi",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 538,
+    "title": "紫苏叶",
+    "pinyin": "Zisuye",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 539,
+    "title": "紫苏梗",
+    "pinyin": "Zisugeng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 540,
+    "title": "紫草",
+    "pinyin": "Zicɑo",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。外用适量，熬膏或用植物油浸泡涂擦。"
+  },
+  {
+    "entry_id": 541,
+    "title": "紫珠叶",
+    "pinyin": "Zizhuye",
+    "dosage": "3～15g",
+    "dosage_text": "3～15g；研末吞服1.5～3g。外用适量，敷于患处。"
+  },
+  {
+    "entry_id": 542,
+    "title": "紫萁贯众",
+    "pinyin": "Ziqiguɑnzhong",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。"
+  },
+  {
+    "entry_id": 543,
+    "title": "紫菀",
+    "pinyin": "Ziwɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 544,
+    "title": "蛤壳",
+    "pinyin": "Geqiɑo",
+    "dosage": "6～15g",
+    "dosage_text": "6～15g，先煎，蛤粉包煎。外用适量，研极细粉撒布或油调后敷患处。"
+  },
+  {
+    "entry_id": 545,
+    "title": "蛤蚧",
+    "pinyin": "Gejie",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，多入丸散或酒剂。"
+  },
+  {
+    "entry_id": 546,
+    "title": "黑芝麻",
+    "pinyin": "Heizhimɑ",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 547,
+    "title": "黑豆",
+    "pinyin": "Heidou",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。外用适量，煎汤洗患处。"
+  },
+  {
+    "entry_id": 548,
+    "title": "黑种草子",
+    "pinyin": "Heizhongcɑozi",
+    "dosage": "2～6g",
+    "dosage_text": "2～6g。"
+  },
+  {
+    "entry_id": 549,
+    "title": "锁阳",
+    "pinyin": "Suoyɑng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 550,
+    "title": "筋骨草",
+    "pinyin": "Jingucɑo",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。外用适量，捣烂敷患处。"
+  },
+  {
+    "entry_id": 551,
+    "title": "鹅不食草",
+    "pinyin": "Ebushicɑo",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。外用适量。"
+  },
+  {
+    "entry_id": 552,
+    "title": "番泻叶",
+    "pinyin": "Fɑnxieye",
+    "dosage": "2～6g",
+    "dosage_text": "2～6g，后下，或开水泡服。"
+  },
+  {
+    "entry_id": 553,
+    "title": "湖北贝母",
+    "pinyin": "Hubeibeimu",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g，研粉冲服。"
+  },
+  {
+    "entry_id": 554,
+    "title": "滑石",
+    "pinyin": "Huɑshi",
+    "dosage": "10～20g",
+    "dosage_text": "10～20g，先煎。外用适量。"
+  },
+  {
+    "entry_id": 555,
+    "title": "滑石粉",
+    "pinyin": "Huɑshifen",
+    "dosage": "10～20g",
+    "dosage_text": "10～20g，包煎。外用适量。"
+  },
+  {
+    "entry_id": 556,
+    "title": "蓍草",
+    "pinyin": "Shicɑo",
+    "dosage": "15～45g",
+    "dosage_text": "15～45g，必要时日服二剂。"
+  },
+  {
+    "entry_id": 557,
+    "title": "蓝布正",
+    "pinyin": "Lɑnbuzheng",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 558,
+    "title": "蓖麻子",
+    "pinyin": "Bimɑzi",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。外用适量。"
+  },
+  {
+    "entry_id": 559,
+    "title": "蒺藜",
+    "pinyin": "Jili",
+    "dosage": "6～10g",
+    "dosage_text": "6～10g。"
+  },
+  {
+    "entry_id": 560,
+    "title": "蒲公英",
+    "pinyin": "Pugongying",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 561,
+    "title": "蒲黄",
+    "pinyin": "Puhuɑng",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g，包煎。外用适量，敷患处。"
+  },
+  {
+    "entry_id": 562,
+    "title": "椿皮",
+    "pinyin": "Chunpi",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 563,
+    "title": "槐花",
+    "pinyin": "Huɑihuɑ",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 564,
+    "title": "槐角",
+    "pinyin": "Huɑijiɑo",
+    "dosage": "6～9g",
+    "dosage_text": "6～9g。"
+  },
+  {
+    "entry_id": 565,
+    "title": "雷丸",
+    "pinyin": "Leiwɑn",
+    "dosage": "15～21g",
+    "dosage_text": "15～21g，不宜入煎剂，一般研粉服，一次5～7g，饭后用温开水调服，一日3次，连服3天。"
+  },
+  {
+    "entry_id": 566,
+    "title": "路路通",
+    "pinyin": "Lulutong",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 567,
+    "title": "蜈蚣",
+    "pinyin": "Wugong",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。"
+  },
+  {
+    "entry_id": 568,
+    "title": "蜂房",
+    "pinyin": "Fengfɑng",
+    "dosage": "3～5g",
+    "dosage_text": "3～5g。外用适量，研末油调敷患处，或煎水漱，或洗患处。"
+  },
+  {
+    "entry_id": 569,
+    "title": "蜂胶",
+    "pinyin": "Fengjiɑo",
+    "dosage": "0.2～0.6g",
+    "dosage_text": "0.2～0.6g。外用适量。多入丸散用，或加蜂蜜适量冲服。"
+  },
+  {
+    "entry_id": 570,
+    "title": "蜂蜡",
+    "pinyin": "Fenglɑ",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 571,
+    "title": "蜂蜜",
+    "pinyin": "Fengmi",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 572,
+    "title": "锦灯笼",
+    "pinyin": "Jindenglong",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。外用适量，捣敷患处。"
+  },
+  {
+    "entry_id": 573,
+    "title": "矮地茶",
+    "pinyin": "Aidichɑ",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 574,
+    "title": "满山红",
+    "pinyin": "Mɑnshɑnhong",
+    "dosage": "25～50g",
+    "dosage_text": "25～50g；6～12g，用40%乙醇浸服。"
+  },
+  {
+    "entry_id": 575,
+    "title": "滇鸡血藤",
+    "pinyin": "Diɑnjixueteng",
+    "dosage": "15～30g",
+    "dosage_text": "15～30g。"
+  },
+  {
+    "entry_id": 576,
+    "title": "裸花紫珠",
+    "pinyin": "Luohuazizhu",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。外用适量。"
+  },
+  {
+    "entry_id": 577,
+    "title": "蔓荆子",
+    "pinyin": "Mɑnjingzi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 578,
+    "title": "蓼大青叶",
+    "pinyin": "Liɑodɑqingye",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 579,
+    "title": "榧子",
+    "pinyin": "Feizi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 580,
+    "title": "榼藤子",
+    "pinyin": "Ketengzi",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 581,
+    "title": "槟榔",
+    "pinyin": "Binglɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g；驱绦虫、姜片虫30～60g。"
+  },
+  {
+    "entry_id": 582,
+    "title": "焦槟榔",
+    "pinyin": "Jiɑobinglɑng",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 583,
+    "title": "酸枣仁",
+    "pinyin": "Suɑnzɑoren",
+    "dosage": "10～15g",
+    "dosage_text": "10～15g。"
+  },
+  {
+    "entry_id": 584,
+    "title": "磁石",
+    "pinyin": "Cishi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g，先煎。"
+  },
+  {
+    "entry_id": 585,
+    "title": "豨莶草",
+    "pinyin": "Xixiɑncɑo",
+    "dosage": "9～12g",
+    "dosage_text": "9～12g。"
+  },
+  {
+    "entry_id": 586,
+    "title": "蜘蛛香",
+    "pinyin": "Zhizhuxiɑng",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 587,
+    "title": "蝉蜕",
+    "pinyin": "Chɑntui",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 588,
+    "title": "罂粟壳",
+    "pinyin": "Yingsuqiɑo",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 589,
+    "title": "辣椒",
+    "pinyin": "Lɑjiɑo",
+    "dosage": "0.9～2.4g",
+    "dosage_text": "0.9～2.4g。外用适量。"
+  },
+  {
+    "entry_id": 590,
+    "title": "漏芦",
+    "pinyin": "Loulu",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。"
+  },
+  {
+    "entry_id": 591,
+    "title": "赭石",
+    "pinyin": "Zheshi",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g，先煎。"
+  },
+  {
+    "entry_id": 592,
+    "title": "蕤仁",
+    "pinyin": "Ruiren",
+    "dosage": "5～9g",
+    "dosage_text": "5～9g。"
+  },
+  {
+    "entry_id": 593,
+    "title": "蕲蛇",
+    "pinyin": "Qishe",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g；研末吞服，一次1～1.5g，一日2～3次。"
+  },
+  {
+    "entry_id": 594,
+    "title": "槲寄生",
+    "pinyin": "Hujisheng",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 595,
+    "title": "暴马子皮",
+    "pinyin": "Bɑomɑzipi",
+    "dosage": "30～45g",
+    "dosage_text": "30～45g。"
+  },
+  {
+    "entry_id": 596,
+    "title": "墨旱莲",
+    "pinyin": "Mohɑnliɑn",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 597,
+    "title": "稻芽",
+    "pinyin": "Dɑoyɑ",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 598,
+    "title": "僵蚕",
+    "pinyin": "Jiɑngcɑn",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 599,
+    "title": "鹤虱",
+    "pinyin": "Heshi",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 600,
+    "title": "薤白",
+    "pinyin": "Xiebɑi",
+    "dosage": "5～10g",
+    "dosage_text": "5～10g。"
+  },
+  {
+    "entry_id": 601,
+    "title": "薏苡仁",
+    "pinyin": "Yiyiren",
+    "dosage": "9～30g",
+    "dosage_text": "9～30g。"
+  },
+  {
+    "entry_id": 602,
+    "title": "薄荷",
+    "pinyin": "Bohe",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g，后下。"
+  },
+  {
+    "entry_id": 603,
+    "title": "颠茄草",
+    "pinyin": "Diɑnqiecɑo",
+    "dosage": null,
+    "dosage_text": null
+  },
+  {
+    "entry_id": 604,
+    "title": "橘红",
+    "pinyin": "Juhong",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 605,
+    "title": "橘核",
+    "pinyin": "Juhe",
+    "dosage": "3～9g",
+    "dosage_text": "3～9g。"
+  },
+  {
+    "entry_id": 606,
+    "title": "藏菖蒲",
+    "pinyin": "Zɑngchɑngpu",
+    "dosage": "3～6g",
+    "dosage_text": "3～6g。"
+  },
+  {
+    "entry_id": 607,
+    "title": "藁本",
+    "pinyin": "Gɑoben",
+    "dosage": "3～10g",
+    "dosage_text": "3～10g。"
+  },
+  {
+    "entry_id": 608,
+    "title": "檀香",
+    "pinyin": "Tɑnxiɑng",
+    "dosage": "2～5g",
+    "dosage_text": "2～5g。"
+  },
+  {
+    "entry_id": 609,
+    "title": "翼首草",
+    "pinyin": "Yishoucɑo",
+    "dosage": "1～3g",
+    "dosage_text": "1～3g。"
+  },
+  {
+    "entry_id": 610,
+    "title": "藕节",
+    "pinyin": "Oujie",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 611,
+    "title": "覆盆子",
+    "pinyin": "Fupenzi",
+    "dosage": "6～12g",
+    "dosage_text": "6～12g。"
+  },
+  {
+    "entry_id": 612,
+    "title": "瞿麦",
+    "pinyin": "Qumɑi",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 613,
+    "title": "翻白草",
+    "pinyin": "Fɑnbɑicɑo",
+    "dosage": "9～15g",
+    "dosage_text": "9～15g。"
+  },
+  {
+    "entry_id": 614,
+    "title": "蟾酥",
+    "pinyin": "Chɑnsu",
+    "dosage": "0.015～0.03g",
+    "dosage_text": "0.015～0.03g，多入丸散用。外用适量。"
+  },
+  {
+    "entry_id": 615,
+    "title": "鳖甲",
+    "pinyin": "Biejiɑ",
+    "dosage": "9～24g",
+    "dosage_text": "9～24g，先煎。"
+  }
+]
