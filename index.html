@@ -162,7 +162,8 @@
       "盐菟丝子": "菟丝子",
       "烫骨碎补": "骨碎补",
       "炒神曲": "神曲",
-      "炒六神曲": "神曲"
+      "炒六神曲": "神曲",
+      "蜜枇杷叶": "枇杷叶"
     };
 
     // 获取标准药名
@@ -247,6 +248,10 @@
           displayName = `${medicineName} (${standardName})`;
         }
 
+        // 检查是否在医保目录中
+        const isInMedicalInsurance = chineseMedicines.includes(medicineName) || 
+                                      chineseMedicines.includes(standardName);
+
         if (!standardData) {
           status = '⚠️ 未找到药典数据';
           statusClass = 'not-in-list';
@@ -254,7 +259,14 @@
           unknownCount++;
         } else {
           const {min, max, text} = standardData;
-          if (actualDosage < min) {
+          
+          // 先检查是否在医保目录内
+          if (!isInMedicalInsurance) {
+            status = '⚠️ 不符合医保';
+            statusClass = 'not-in-list';
+            explanation = `药典标准${min}～${max}g，但不在医保目录内`;
+            unknownCount++;
+          } else if (actualDosage < min) {
             status = '⚠️ 低于最小用量';
             statusClass = 'dosage-warning';
             explanation = `实际${actualDosage}g低于药典最小用量${min}g`;
@@ -286,7 +298,7 @@
         <strong>统计：</strong> 
         符合标准: <span class="dosage-ok">${okCount}</span> | 
         超出范围: <span class="dosage-warning">${warningCount}</span> | 
-        未找到数据: <span class="not-in-list">${unknownCount}</span>
+        医保外/未找到: <span class="not-in-list">${unknownCount}</span>
       </div>`;
 
       resultDiv.innerHTML = html;
